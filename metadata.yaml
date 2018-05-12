@@ -1,0 +1,50 @@
+_repo: The-Mummy-s-Foot_22662
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Hearn, Lafcadio
+    aliases:
+    - Hearn, Patrick Lafcadio
+    - Koizumi, Yakumo
+    - Xiaoquan, Bayun
+    birthdate: 1850
+    deathdate: 1904
+    gutenberg_agent_id: '368'
+    url: http://www.gutenberg.org/2009/agents/368
+    wikipedia: http://en.wikipedia.org/wiki/Lafcadio_Hearn
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gautier, Théophile
+    aliases:
+    - Gaultier, Theophile
+    - Gautier, Theophile
+    - Gautier, Pierre-Jules-Théophile
+    birthdate: 1811
+    deathdate: 1872
+    gutenberg_agent_id: '5450'
+    url: http://www.gutenberg.org/2009/agents/5450
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Th%C3%A9ophile_Gautier
+    - http://en.wikipedia.org/wiki/Théophile_Gautier
+description: Plunge into the distant past with this creepy tale from renowned gothic
+  horror master Theophile Gautier. A man whiling away a pleasant afternoon browsing
+  in the antique shops of Paris stumbles across a curious relic -- and is soon enmeshed
+  in an adventure he never thought possible. Will he make it back alive? Read "The
+  Mummy's Foot" to find out.
+gutenberg_issued: '2007-09-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22662'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Horror tales'
+- !lcsh 'Short stories'
+title: The Mummy's Foot
+url: http://www.gutenberg.org/ebooks/22662
